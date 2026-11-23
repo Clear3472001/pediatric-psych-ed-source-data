@@ -1,6 +1,6 @@
 ## Portfolio Context
 
-This repository is Project 1 of a 9-project data engineering portfolio focused on pediatric psychiatric emergency department boarding analytics.
+This repository is Project 1 of a 9-project data engineering portfolio focused on psychiatric emergency department boarding analytics.
 
 Subsequent projects transform this source data into an operational database, enterprise data warehouse, analytics layer, and cloud-based healthcare data platform.
 
